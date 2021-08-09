@@ -1,7 +1,7 @@
 <?php
 /**
 *
-* Download System [French]
+* Download system [French]
 * 
 * @package phpBB Extension - Download System
 * @copyright (c) 2019 dmzx - https://www.dmzx-web.net
