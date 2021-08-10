@@ -74,7 +74,7 @@ nouvelle mise à jour à télécharger !
 
 [b]Cliquez %4$s pour vous rendre à la catégorie ![/b]
 
-Have fun!',
+Merci !',
 	'ACP_ANNOUNCE_UP_TITLE'					=> '[UPD] %1$s',
 	'ACP_BASIC'								=> 'Paramètres de base',
 	'ACP_CAT'								=> 'Catégorie',
